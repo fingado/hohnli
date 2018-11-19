@@ -23,6 +23,9 @@ Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generat
 <iframe src="https://trinket.io/embed/python/44d2e7db28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 {% endraw %}
 
+{% raw %}
+<iframe height="600px" width="100%" src="https://repl.it/repls/ThisVirtualAccounting?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+{% endraw %}
 
 ### Installation
 1. Install the Ruby Gem
