@@ -19,6 +19,11 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 ### Dependencies
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/quickstart/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages standard Jekyll compiler.
 
+{% raw %}
+<iframe src="https://trinket.io/embed/python/44d2e7db28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+{% endraw %}
+
+
 ### Installation
 1. Install the Ruby Gem
 ```bash
