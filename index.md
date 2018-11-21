@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-# Willkommen Alexandra
+# Informatik Ressourcen
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.
@@ -17,7 +17,7 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ## Getting started
 ### Dependencies
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/quickstart/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages standard Jekyll compiler.
+Just the Docs is built for [Jekyll](https://jekyllrb.com){:target="_blank"}, a static site generator. View the [quick start guide](https://jekyllrb.com/docs/quickstart/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages standard Jekyll compiler.
 
 {% raw %}
 <iframe src="https://trinket.io/embed/python/44d2e7db28" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>

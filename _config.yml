@@ -28,3 +28,5 @@ search_enabled: true
 aux_links:
   "Muristalden":
     - "https://www.muristalden.ch"
+  "Test":
+    - "https://www.google.ch"
