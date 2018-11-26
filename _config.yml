@@ -25,8 +25,9 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 search_enabled: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Muristalden":
-    - "https://www.muristalden.ch"
-  "Test":
-    - "https://www.google.ch"
+#aux_links:
+#  "Muristalden":
+#    - "https://www.muristalden.ch"
+
+plugins:
+  - jekyll-target-blank
