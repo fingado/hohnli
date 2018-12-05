@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wie funktioniert Tracking im Internet?
-nav_order: 2
+nav_order: 3
 parent: Datenschutz
 ---
 

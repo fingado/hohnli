@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digitale Selbstverteidigung - eine Anleitung
-nav_order: 3
+nav_order: 4
 parent: Datenschutz
 ---
 
