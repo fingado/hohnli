@@ -2,8 +2,7 @@
 layout: default
 title: Der Stift und Farben
 nav_order: 2
-parent: Python-Turtle
-has_children: true
+parent: Python mit der Turtle
 ---
 
 # Antons Stift

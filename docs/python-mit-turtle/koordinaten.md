@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Loops
-parent: Das Koordinatensystem der Turtle
+title: Das Koordinatensystem der Turtle
+parent: Python mit der Turtle
 nav_order: 3
 ---
 
