@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Einfaches Zeichnen
+title: Einfaches Zeichnen und Schreiben
 parent: Python mit der Turtle
 nav_order: 1
 ---
@@ -16,7 +16,7 @@ Unsere Schildkröte Anton kann sich aufgrund von unseren Anweisungen auf der Bil
 
 In die Klammern muss ein Parameter eigegeben werden. Ein Parameter ist in diesem Fall eine Zahl, welche die Distanz beschreibt, die Anton gehen soll.
 
-Anton kann sich zudem nach recht (right) oder link (left) bewegen:
+Anton kann sich zudem nach rechts (right) oder links (left) bewegen:
 
 - right(_winkel_)
 - left(_winkel_)
@@ -28,3 +28,9 @@ Führe den untenstehenden Code aus und versuche ihn danach zu manipulieren, inde
 {% raw %}
 <iframe src="https://trinket.io/embed/python/8c9decb0f8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 {% endraw %}
+
+---
+
+# Schreiben mit der Turtle
+
+---
