@@ -4,9 +4,11 @@ title: Einfaches Zeichnen und Schreiben
 parent: Python mit der Turtle
 nav_order: 1
 ---
-
+<div class="text-red-000">
+<em><font size="1"><b>Achtung:</b> auf dieser Seite befinden sich eingebettete Plugins von trinket.io zum direkten Anwenden von Programmiercode im Browser. Das ist ziemlich praktisch um das Programmieren zu erlernen, aber leider zeichnet trinket.io dein Surfverhalten auf und gibt diese Informationen unter Umständen an Dritte weiter. <a href="https://www.hohn.li/docs/datenschutz"><b>Lerne, wie du dich dagegen schützen kannst.</b></a></font></em>
+</div>
+---
 # Zeichnen mit der Turtle
-
 ---
 
 Unsere Schildkröte Anton kann sich aufgrund von unseren Anweisungen auf der Bildschirmfläche bewegen. Bei jeder Bewegung zeichnet Anton eine Linie. Anton kann sich vorwärts (forward) und rückwärts (backward) bewegen:
