@@ -14,19 +14,3 @@ Programmieren lernen mit einer Turtle hat lange Tradition. Es geht dabei darum, 
 {% raw %}
 <iframe src="https://trinket.io/embed/python/6542d6ad42" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 {% endraw %}
-
-
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
