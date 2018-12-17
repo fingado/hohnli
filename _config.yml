@@ -31,3 +31,5 @@ search_enabled: true
 
 plugins:
   - jekyll-target-blank
+  
+markdown: CommonMarkGhPages
