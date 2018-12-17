@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Credits
-nav_order: 10
+nav_order: 99
 ---
 
 # Credits and Licence
@@ -18,4 +18,4 @@ Most contents of this site do not come from me and this site is merely a  collec
 The layout of this site is based on the free and open-source Jekyll-Theme [Just The Docs](https://github.com/pmarsceill/just-the-docs){:target="_blank"}. You can see Just The Docs in its original form [here](https://pmarsceill.github.io/just-the-docs/){:target="_blank"}.
 
 ## Licence
-Everything on this Website that is not credited to an author is open. If credited, the respective authors licence applies. If you use any open content from this site, feel free to so. But please, if you develop/advance/improve the content used, [let me know](mailto:brain@hohn.li), because I might be interested in updating my content based on what you did. 
+Everything on this Website that is not credited to an author is open. If credited, the respective authors licence applies. If you use any open content from this site, feel free to do so. But please, if you develop/advance/improve the content used, [let me know](mailto:brain@hohn.li), because I might be interested in updating my content based on what you did.
