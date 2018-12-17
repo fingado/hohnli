@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Einfaches Zeichnen und Schreiben
+title: 1 - einfaches zeichnen
 parent: Programmieren mit der Turtle
-
 nav_order: 1
 ---
 <div class="text-red-000">
@@ -93,7 +92,7 @@ Eine weitere Funktion im obenstehenden Code ist **speed()**. Damit können wir d
 speed(geschwindigkeit)
 ```
 
-Weiterhin wurde im Code die Farbe von Anton gewechselt. Die Farbe beeinflusst sowohl die Linien, die Anton zeichnet, als auch den Text, den Anton schreibt. Die Funktion dafür ist **color()** und als Argument für die Funktion muss eine Farbe eingesetzt werden. Alle gängigen Farben gehen dafür, sie müssen aber auf Englisch und in ANführungszeichen angegeben werden:
+Weiterhin wurde im Code die Farbe von Anton gewechselt. Die Farbe beeinflusst sowohl die Linien, die Anton zeichnet, als auch den Text, den Anton schreibt. Die Funktion dafür ist **color()** und als Argument für die Funktion muss eine Farbe eingesetzt werden. Alle gängigen Farben gehen dafür, sie müssen aber auf Englisch und in Anführungszeichen angegeben werden:
 
 ```python
 color("farbe")   # zum Beispiel "green", "blue" oder "red"
@@ -143,3 +142,21 @@ hideturtle()        # kein Argument!
 # Übungen
 
 ---
+
+## Übung 1
+
+
+## Übung 2
+
+
+## Übung 3
+
+
+## Übung 4
+
+
+
+
+{% raw %}
+<iframe src="https://trinket.io/embed/python/71f26c6ffa" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+{% endraw %}

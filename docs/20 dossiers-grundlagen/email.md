@@ -9,3 +9,9 @@ permalink: /docs/dossiers-grundlagen/email
 # Wie schreibt man ein E-Mail?
 
 Dies ist ein Dossier
+
+Dies ist Text.
+
+![email1](/img/email1.png)
+
+Dies ist auch Text.
