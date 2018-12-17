@@ -8,7 +8,8 @@ permalink: /docs/programmieren-mit-jython
 
 # Programmieren mit Jython
 
-blabla
+Content coming soon.
+
 
 ```js
 // Javascript code with syntax highlighting.
@@ -40,4 +41,29 @@ my_function()
 </body>
 
 ```
-Content coming soon. 
+
+
+
+<details>
+ <summary>Klicken für die Lösungen</summary>
+
+```js
+const x = 1
+```
+</details>
+
+
+
+
+
+<details>
+<summary>stuff with *mark* **down**</summary><p>
+
+## _formatted_ **heading** with [a](link)
+
+---
+{{standard 3-backtick code block omitted from here due to escaping issues}}
+---
+
+Collapsible until here.
+</p></details>
