@@ -13,4 +13,21 @@ Programmieren lernen mit einer Turtle hat lange Tradition. Es geht dabei darum, 
 
 {% raw %}
 <iframe src="https://trinket.io/embed/python/6542d6ad42" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-{% endraw %}
+{% endraw %}  
+Die im obenstehenden Beispiel verwendete und vorgestellte Programmiersprache heisst **Python**. Es gibt unzählige verschiedene Programmiersprachen, Python ist aber sehr verbreitet und verhältnismässig einfach, weshalb sich Python sehr gut als Einstieg in die Welt des Programmierens eignet. Die folgenden Übungen führen in das Programmieren mit der Python-Turtle ein. Untenstehend ist eine Übersicht aller Lektionen, es empfiehlt sich, der Reihe nach durchzugehen.
+
+---
+{% if page.has_children == true %}
+## Übersicht über alle Lektionen zum Programmieren in Python mit der Turtle
+{% assign children_list = site.pages | sort:"nav_order" %}
+<ul>
+  {% for child in children_list %}
+    {% if child.parent == page.title and child.title != page.title %}
+    <li>
+      <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endif %}
+---
